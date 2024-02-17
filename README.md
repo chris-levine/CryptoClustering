@@ -1,1 +1,2 @@
 # CryptoClustering
+This is my submission for the unsupervised machine learning challenge. The goal of this assignment was to construct a machine learning model to predict the price change of crypto data. 
